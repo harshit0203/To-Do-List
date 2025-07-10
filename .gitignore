@@ -1,0 +1,29 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.sqlite3
+.env
+venv/
+instance/
+*.db
+
+# Flask
+.env
+*.log
+
+# Node.js / Next.js
+node_modules/
+.next/
+.env.local
+.env.development
+.env.production
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
